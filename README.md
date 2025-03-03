@@ -27,7 +27,5 @@ pip install tensorflow numpy tqdm pickle
 
 ## Results
 After training, the model can generate captions describing images with reasonable accuracy.
-
-## License
-This project is open-source under the MIT License.
+BLEU: 0.059 & 0.061
 
